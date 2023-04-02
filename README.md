@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi there ✌️
+
+## About me
+
+I've been doing *web* and *mobile* development for a few years now. I write code mostly in *JavaScript*. But I don't forget about other programming languages.
+
+Core technology stack:
+
+* JavaScript
+    + React
+        - ReactJS
+        - React Native
+    + JQuery
+    + NodeJS
+* HTML5
+* CSS
+    + LESS
+    + SASS
+* Python
+    + Selenium
+* PHP
+    + Laravel
 
 <!--
 **zloishavrin/zloishavrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
