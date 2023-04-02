@@ -1,6 +1,4 @@
-# Hi there ✌️
-
-## About me
+# About me
 
 I've been doing *web* and *mobile* development for a few years now. I write code mostly in *JavaScript*. But I don't forget about other programming languages.
 
@@ -21,21 +19,21 @@ Core technology stack:
 * *PHP*
     + Laravel
 
-## My projects
+# My projects
 
-### ShaligulaGPT
+## ShaligulaGPT
 
 ![SHALIGULAGPT](https://i.ibb.co/GQbcBtW/3215453422222.png)
 
 Telegram bot integrated with OpenAI-API, which answers your questions and can generate pictures by description. You can view it [here](https://t.me/shaligulagpt_bot).
 
-### LAVA PAYMENT LIBRARY
+## LAVA PAYMENT LIBRARY
 
 ![LAVA-PAYMENT](https://i.ibb.co/XDn8frs/23-1.png)
 
 Unofficial library for working with LAVA payment system from NodeJS. You can view it [here](https://github.com/zloishavrin/lava-business-payment-library).
 
-## I'm on other sites
+# I'm on other sites
 
 * *Social*
     + [Telegram](https://t.me/zloishavrin)
