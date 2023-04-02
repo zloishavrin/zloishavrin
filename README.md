@@ -21,6 +21,18 @@ Core technology stack:
 * *PHP*
     + Laravel
 
+## I'm on other sites
+
+* *Social*
+    + [Telegram](https://t.me/zloishavrin)
+    + [VK](https://vk.com/zloishavrin)
+* *Freelance*
+    + [HABR](https://freelance.habr.com/freelancers/shavrin)
+    + [KWORK](https://kwork.ru/user/zloishavrin)
+    + [WebLancer](https://www.weblancer.net/users/shavrin/)
+* *Other*
+    + [My articles on Habr](https://habr.com/ru/users/zloishavrin/posts/)
+
 <!--
 **zloishavrin/zloishavrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
