@@ -29,6 +29,12 @@ Core technology stack:
 
 Telegram bot integrated with OpenAI-API, which answers your questions and can generate pictures by description. You can view it [here](https://t.me/shaligulagpt_bot).
 
+### LAVA PAYMENT LIBRARY
+
+![LAVA-PAYMENT](https://i.ibb.co/XDn8frs/23-1.png)
+
+Unofficial library for working with LAVA payment system from NodeJS. You can view it [here](https://github.com/zloishavrin/lava-business-payment-library).
+
 ## I'm on other sites
 
 * *Social*
