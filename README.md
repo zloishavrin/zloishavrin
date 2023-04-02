@@ -6,19 +6,19 @@ I've been doing *web* and *mobile* development for a few years now. I write code
 
 Core technology stack:
 
-* JavaScript
+* *JavaScript*
     + React
-        - ReactJS
-        - React Native
+        - _ReactJS_
+        - _React Native_
     + JQuery
     + NodeJS
-* HTML5
-* CSS
+* *HTML5*
+* *CSS*
     + LESS
     + SASS
-* Python
+* *Python*
     + Selenium
-* PHP
+* *PHP*
     + Laravel
 
 <!--
