@@ -11,6 +11,7 @@ Core technology stack:
     + JQuery
     + NodeJS
 * *HTML5*
+    + Bootstrap
 * *CSS*
     + LESS
     + SASS
