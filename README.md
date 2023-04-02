@@ -25,7 +25,7 @@ Core technology stack:
 
 ### ShaligulaGPT
 
-![SHALIGULAGPT](https://i.ibb.co/DYdxVHy/2ed6882e-fa8c-4f96-bcde-fabc4f21.jpg)
+![SHALIGULAGPT](https://i.ibb.co/GQbcBtW/3215453422222.png)
 
 Telegram bot integrated with OpenAI-API, which answers your questions and can generate pictures by description. You can view it [here](https://t.me/shaligulagpt_bot).
 
