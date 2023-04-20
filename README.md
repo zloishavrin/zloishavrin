@@ -8,8 +8,9 @@ Core technology stack:
     + React
         - _ReactJS_
         - _React Native_
-    + JQuery
     + NodeJS
+    + PixiJS
+    + JQuery
 * *HTML5*
     + Bootstrap
 * *CSS*
