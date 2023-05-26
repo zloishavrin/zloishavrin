@@ -36,7 +36,6 @@ Unofficial library for working with LAVA payment system from NodeJS. You can vie
     + [VK](https://vk.com/zloishavrin)
 * *Freelance*
     + [HABR](https://freelance.habr.com/freelancers/shavrin)
-    + [KWORK](https://kwork.ru/user/zloishavrin)
     + [WebLancer](https://www.weblancer.net/users/shavrin/)
 * *Other*
     + [My articles on Habr](https://habr.com/ru/users/zloishavrin/posts/)
