@@ -1,4 +1,4 @@
-<div align='center'>:eye: About me</div> 
+<div align='center'><h1>:eye:About me</h1></div> 
 
 I've been doing *web* and *mobile* development for a few years now. I write code mostly in *JavaScript*. But I don't forget about other programming languages.
 
