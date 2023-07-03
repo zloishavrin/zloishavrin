@@ -32,7 +32,7 @@
 
 <div align='center'>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zloishavrin&height=300&theme=dark&background=0d1117)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=zloishavrin&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&card_width=500)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloishavrin&height=300&theme=dark&background=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
