@@ -12,7 +12,7 @@
 <div align='center'>
   <h1>:mechanical_arm: Core technology stack</h1>
 </div>
-
+:russia:
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
