@@ -4,8 +4,8 @@
 
 <div align='center'>
   I've been doing <b>web</b> and <b>mobile</b> development for a few years now. I write code in <b>JavaScript</b> and its frameworks. I also do not forget about other programming languages.
-  Commercial experience in Web Development - <b>3 years</b>.
-  Commercial experience in Mobile Development - <b>1.5 years</b>.
+  <br>Commercial experience in Web Development - <b>3 years</b>.
+  <br>Commercial experience in Mobile Development - <b>1.5 years</b>.
 </div>
 
 
