@@ -32,8 +32,8 @@
 
 <div align='center'>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zloishavrin&theme=dark&background=0d1117)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloishavrin&theme=dark&background=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zloishavrin&height=300&theme=dark&background=0d1117)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloishavrin&height=300&theme=dark&background=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
