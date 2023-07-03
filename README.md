@@ -12,7 +12,7 @@
 <div align='center'>
   <h1>:mechanical_arm: Core technology stack</h1>
 </div>
-:russia:
+
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
@@ -32,11 +32,11 @@
 
 <div align='center'>
 
-  <a href='https://habr.com/ru/articles/713322/'><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/> Telegram bots on NodeJS </a>
+  <a href='https://habr.com/ru/articles/713322/'><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/> 🇷🇺 Telegram bots on NodeJS </a>
 
-  <a href='https://habr.com/ru/articles/713322/'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/> Yandex Maps and React Native. Part 2. HUD and map methods </a>
+  <a href='https://habr.com/ru/articles/713322/'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/> 🇷🇺 Yandex Maps and React Native. Part 2. HUD and map methods </a>
 
-  <a href='https://habr.com/ru/articles/713322/'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/> Yandex Maps and React Native. Part 1. Installation and primitives </a>
+  <a href='https://habr.com/ru/articles/713322/'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/> 🇷🇺 Yandex Maps and React Native. Part 1. Installation and primitives </a>
 
 </div>
 
