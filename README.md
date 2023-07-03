@@ -32,7 +32,7 @@
 
 <div align='center'>
 
-  <a href='https://habr.com/ru/articles/713322/'><h3><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/> Yandex Maps and React Native. Part 1. Installation and primitives</h3></a>
+  <a href='https://habr.com/ru/articles/713322/'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/> Yandex Maps and React Native. Part 1. Installation and primitives</a>
 
 </div>
 
