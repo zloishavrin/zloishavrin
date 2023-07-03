@@ -32,7 +32,7 @@
 
 <div align='center'>
 
-  <a href='https://habr.com/ru/articles/713322/'><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/> 🇷🇺 Telegram bots on NodeJS </a>
+  <a href='https://habr.com/ru/articles/713322/' vertical-align='middle'><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/> 🇷🇺 Telegram bots on NodeJS </a>
 
   <a href='https://habr.com/ru/articles/713322/'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/> 🇷🇺 Yandex Maps and React Native. Part 2. HUD and map methods </a>
 
