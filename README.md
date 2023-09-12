@@ -56,7 +56,7 @@
 
 <div align='center'>
 
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/zloishavrin)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/zloishavrin?site=ru&font=Montserrat)
 
 </div>
 
