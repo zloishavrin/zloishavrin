@@ -49,14 +49,14 @@
 
 <div align='center'>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zloishavrin&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&card_width=500)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloishavrin&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [GitHub Streak](https://streak-stats.demolab.com?user=zloishavrin&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&card_width=500)]
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloishavrin&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&hide_border=true)]
 
 </div>
 
 <div align='center'>
 
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/zloishavrin?site=ru&font=Montserrat&width=800border=0&radius=30&ext=activity&theme=dark)
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/zloishavrin?site=ru&font=Montserrat&width=800border=0&radius=30&ext=activity&theme=dark)](https://leetcode.com/zloishavrin/)
 
 </div>
 
