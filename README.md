@@ -60,9 +60,3 @@
 
 </div>
 
-<div align='center'>
-
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/2u3ZpvdeLOLg3mIvQg0jZh)
-
-</div>
-
