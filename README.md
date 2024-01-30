@@ -29,11 +29,11 @@
 </div>
 
 <div align='center'>
-  <h1>:page_with_curl: My articles on Habr</h1>
+  <a href='https://dev.shaligula.ru/ready/'><img src="https://github.com/zloishavrin/zloishavrin/blob/main/icon.png" title="ShaligulaReady" alt="ShaligulaReady" width="60" height="60"/></a>&nbsp;
 </div>
 
 <div align='center'>
-  <a href='https://dev.shaligula.ru/ready/'><img src="https://github.com/zloishavrin/zloishavrin/blob/main/icon.png" title="ShaligulaReady" alt="ShaligulaReady" width="60" height="60"/></a>&nbsp;
+  <h1>:page_with_curl: My articles on Habr</h1>
 </div>
 
 <div align='center'>
