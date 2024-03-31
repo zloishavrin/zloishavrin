@@ -2,8 +2,10 @@
   <h1>:eye: About me</h1>
 </div>
 
-<div>
-  I have been doing JavaScript web development since 2018. Commercial experience since 2021.
+<div align='center' text-align='center'>
+  I have been doing JavaScript web development since 2018.
+  <br> 
+  Commercial experience since 2021.
 </div>
 
 
