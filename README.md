@@ -3,9 +3,7 @@
 </div>
 
 <div>
-  I've been doing <b>web</b> and <b>mobile</b> development for a few years now. I write code in <b>JavaScript</b> and its frameworks. I also do not forget about other programming languages.
-  <br>Commercial experience in Web Development - <b>3 years</b>.
-  <br>Commercial experience in Mobile Development - <b>1.5 years</b>.
+  I have been doing JavaScript web development since 2018. Commercial experience since 2021.
 </div>
 
 
