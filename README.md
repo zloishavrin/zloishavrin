@@ -1,9 +1,9 @@
 <div align='center'>
-  <h1>:eye: About me</h1>
+  <h1>:eye: About</h1>
 </div>
 
 <div align='center' text-align='center'>
-  I have been doing JavaScript web development since 2018.
+  Web development since 2018.
   <br> 
   Commercial experience since 2021.
 </div>
@@ -25,7 +25,7 @@
 </div>
 
 <div align='center'>
-  <h1>:page_with_curl: My articles on Habr</h1>
+  <h1>:page_with_curl: Articles</h1>
 </div>
 
 <div align='center'>
@@ -37,18 +37,3 @@
   <a href='https://habr.com/ru/articles/713322/'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/> 🇷🇺 Yandex Maps and React Native. Part 1. Installation and primitives </a>
 
 </div>
-
-
-<div align='center'>
-  
-  <h1>:chart_with_upwards_trend: My stats</h1>
-  
-</div>
-
-<div align='center'>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zloishavrin&theme=github-dark-blue&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&card_width=500)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zloishavrin&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
