@@ -18,8 +18,9 @@
 South Ural State Mathematic
 <br>
 Applied Mathematics
-<br>
 </div>
+
+<br><br><br>
 
 <div align='center' text-align='center'>
 <b>Master's degree</b>
@@ -29,7 +30,6 @@ MISIS
 Information Systems and Technologies
 <br>
 (Web Development)
-<br>
 </div>
 
 <div align='center'>
