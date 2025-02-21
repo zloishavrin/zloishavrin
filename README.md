@@ -15,7 +15,7 @@
 <div align='center' text-align='center'>
 <b>Bachelor's degree</b>
 <br>
-South Ural State Mathematic
+South Ural State University
 <br>
 Applied Mathematics
 </div>
