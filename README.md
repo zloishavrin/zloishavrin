@@ -8,6 +8,18 @@
   Commercial experience since 2021.
 </div>
 
+<div align='center'>
+  <h1>:mortar_board: Education</h1>
+</div>
+
+<div align='center' text-align='center'>
+Bachelor's degree
+<br>
+South Ural State Mathematic
+<br>
+Applied Mathematics
+<br>
+</div
 
 <div align='center'>
   <h1>:mechanical_arm: Core technology stack</h1>
