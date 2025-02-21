@@ -13,13 +13,24 @@
 </div>
 
 <div align='center' text-align='center'>
-Bachelor's degree
+<b>Bachelor's degree</b>
 <br>
 South Ural State Mathematic
 <br>
 Applied Mathematics
 <br>
-</div
+</div>
+
+<div align='center' text-align='center'>
+<b>Master's degree</b>
+<br>
+MISIS
+<br>
+Information Systems and Technologies
+<br>
+(Web Development)
+<br>
+</div>
 
 <div align='center'>
   <h1>:mechanical_arm: Core technology stack</h1>
