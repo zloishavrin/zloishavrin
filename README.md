@@ -20,7 +20,7 @@ South Ural State Mathematic
 Applied Mathematics
 </div>
 
-<br><br><br>
+<br>
 
 <div align='center' text-align='center'>
 <b>Master's degree</b>
