@@ -39,7 +39,6 @@
       <b>Master's degree</b><br>
       MISIS<br>
       Information Systems and Technologies<br>
-      (Web Development)
     </td>
   </tr>
 </table>
