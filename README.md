@@ -28,24 +28,28 @@
   <h1>:mortar_board: Education</h1>
 </div>
 
-<div align='center' text-align='center'>
-<b>Bachelor's degree</b>
-<br>
-South Ural State University
-<br>
-Applied Mathematics
-</div>
+<div align='center>
 
-<br>
+  <div align='center' text-align='center'>
+  <b>Bachelor's degree</b>
+  <br>
+  South Ural State University
+  <br>
+  Applied Mathematics
+  </div>
+  
+  <br>
+  
+  <div align='center' text-align='center'>
+  <b>Master's degree</b>
+  <br>
+  MISIS
+  <br>
+  Information Systems and Technologies
+  <br>
+  (Web Development)
+  </div>
 
-<div align='center' text-align='center'>
-<b>Master's degree</b>
-<br>
-MISIS
-<br>
-Information Systems and Technologies
-<br>
-(Web Development)
 </div>
 
 <div align='center'>
