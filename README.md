@@ -31,23 +31,21 @@
 <div align='center>
 
   <div align='center' text-align='center'>
-  <b>Bachelor's degree</b>
-  <br>
-  South Ural State University
-  <br>
-  Applied Mathematics
+    <b>Bachelor's degree</b>
+    <br>
+    South Ural State University
+    <br>
+    Applied Mathematics
   </div>
   
-  <br>
-  
   <div align='center' text-align='center'>
-  <b>Master's degree</b>
-  <br>
-  MISIS
-  <br>
-  Information Systems and Technologies
-  <br>
-  (Web Development)
+    <b>Master's degree</b>
+    <br>
+    MISIS
+    <br>
+    Information Systems and Technologies
+    <br>
+    (Web Development)
   </div>
 
 </div>
