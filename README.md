@@ -30,12 +30,12 @@
 
 <table align='center'>
   <tr>
-    <td align='center'>
+    <td align='left'>
       <b>Bachelor's degree</b><br>
       South Ural State University<br>
       Applied Mathematics
     </td>
-    <td align='center'>
+    <td align='left'>
       <b>Master's degree</b><br>
       MISIS<br>
       Information Systems and Technologies<br>
