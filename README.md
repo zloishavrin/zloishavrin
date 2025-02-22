@@ -28,7 +28,7 @@
   <h1>:mortar_board: Education</h1>
 </div>
 
-<div align='center>
+<div align='center' style='display: flex; flex-direction: row;'>
 
   <div align='center' text-align='center'>
     <b>Bachelor's degree</b>
