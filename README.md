@@ -25,25 +25,6 @@
 </div>
 
 <div align='center'>
-  <h1>:mortar_board: Education</h1>
-</div>
-
-<table align='center'>
-  <tr>
-    <td align='left'>
-      <b>Bachelor's degree</b><br>
-      South Ural State University<br>
-      Applied Mathematics
-    </td>
-    <td align='left'>
-      <b>Master's degree</b><br>
-      MISIS<br>
-      Information Systems and Technologies<br>
-    </td>
-  </tr>
-</table>
-
-<div align='center'>
   <h1>:page_with_curl: Articles</h1>
 </div>
 
